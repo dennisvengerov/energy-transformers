@@ -1,0 +1,14 @@
+# Environment and caches
+.venv/
+.cache/
+__pycache__/
+.pytest_cache/
+
+# Data, checkpoints and logs (regenerated on the server)
+data/
+runs/
+logs/
+
+# Not code
+*.pdf
+.DS_Store

@@ -1,0 +1,6 @@
+# PyTorch is installed separately (CUDA 12.6 build on Armada): see scripts/setup_env.sh
+numpy==2.4.6
+tokenizers==0.23.3
+huggingface-hub==2.2.0
+pyarrow==26.0.0
+pytest==9.1.1
